@@ -2,8 +2,8 @@
 This project involves web-scraping and analysis of data related to Mars. The activity is divided in two parts.
 ## Part 1: Scrape Titles and Preview Text from Mars News
 This part of the project uses automated browsing with **Splinter** to visit the Mars news site and extract HTML code, which is then parsed with **Beautiful Soup**. The titles and preview texts of the news articles are scraped and stored as pairs in Python dictionaries, where each dictionary contains:
-* `title`: The title of the news article.
-* `preview`: A short preview text of the article.
+* title: The title of the news article.
+* preview: A short preview text of the article.
 
 All extracted dictionaries are stored in a Python list for easy access and further analysis.
 
