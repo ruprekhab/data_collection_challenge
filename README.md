@@ -18,9 +18,9 @@ In this part, an HTML table containing Mars weather data is scraped and transfor
    - Analyzed atmospheric pressure to identify months with the lowest and highest values, with results also visualized in a bar chart.
 
 ## Files and Folders
-**part_1_mars_news.ipynb** contains the script to visit the Mars site and extract HTML code.
-**part_2_mars_weather.ipynb** contains the script to analyze the data and make vizualizations.
-**mars_weather.csv** is the output file to which the dataframe is exported.
+* part_1_mars_news.ipynb contains the script to visit the Mars site and extract HTML code.
+* part_2_mars_weather.ipynb contains the script to analyze the data and make vizualizations.
+* mars_weather.csv is the output file to which the dataframe is exported.
 
 
 ## Tools and Libraries
