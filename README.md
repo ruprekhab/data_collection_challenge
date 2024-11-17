@@ -17,6 +17,12 @@ In this part, an HTML table containing Mars weather data is scraped and transfor
    - Found the average minimum daily temperature for each month to identify the coldest and warmest months, and plotted these results in a bar chart using **Matplotlib**.
    - Analyzed atmospheric pressure to identify months with the lowest and highest values, with results also visualized in a bar chart.
 
+## Files and Folders
+**part_1_mars_news.ipynb** contains the script to visit the Mars site and extract HTML code.
+**part_2_mars_weather.ipynb** contains the script to analyze the data and make vizualizations.
+**mars_weather.csv** is the output file to which the dataframe is exported.
+
+
 ## Tools and Libraries
 * **Splinter**: Used for browser automation and web interaction.
 * **Beautiful Soup**: Employed for parsing HTML and extracting relevant data.
@@ -24,7 +30,7 @@ In this part, an HTML table containing Mars weather data is scraped and transfor
 * **Matplotlib**: Used for creating visualizations to showcase analysis results.
 
 ## Output
-The cleaned and analyzed data is exported as a CSV file.
+The cleaned and analyzed data is exported as a CSV file named mars_weather.csv
 
 
 
