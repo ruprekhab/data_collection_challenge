@@ -17,6 +17,8 @@ In this part, an HTML table containing Mars weather data is scraped and transfor
    - Found the average minimum daily temperature for each month to identify the coldest and warmest months, and plotted these results in a bar chart using **Matplotlib**.
    ![Alt text](images/output.png)
    - Analyzed atmospheric pressure to identify months with the lowest and highest values, with results also visualized in a bar chart.
+
+   
    ![Alt text](images/output2.png)
 
 
