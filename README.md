@@ -15,7 +15,10 @@ In this part, an HTML table containing Mars weather data is scraped and transfor
    - Calculated the total number of unique months on Mars.
    - Counted the total number of Martian days (sols) represented in the dataset.
    - Found the average minimum daily temperature for each month to identify the coldest and warmest months, and plotted these results in a bar chart using **Matplotlib**.
+   ![Alt text](images/output.png)
    - Analyzed atmospheric pressure to identify months with the lowest and highest values, with results also visualized in a bar chart.
+   ![Alt text](images/output2.png)
+
 
 ## Files and Folders
 * part_1_mars_news.ipynb contains the script to visit the Mars site and extract HTML code.
